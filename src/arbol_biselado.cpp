@@ -1,0 +1,2 @@
+// Splay tree is a self-adjusting binary search tree data structure, which means that the tree structure is adjusted dynamically based on the accessed or inserted elements. In other words, the tree automatically reorganizes itself so that frequently accessed or inserted elements become closer to the root node.
+// Source: https://www.geeksforgeeks.org/dsa/introduction-to-splay-tree-data-structure/
